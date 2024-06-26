@@ -1,0 +1,15 @@
+{
+  "added_tokens_decoder": {},
+  "additional_special_tokens": [],
+  "auto_map": {
+    "AutoTokenizer": [
+      "tokenization_qwen.QWenTokenizer",
+      null
+    ]
+  },
+  "clean_up_tokenization_spaces": true,
+  "encode_special_tokens": true,
+  "model_max_length": 32768,
+  "tokenizer_class": "QWenTokenizer",
+  "tokenizer_file": null
+}
